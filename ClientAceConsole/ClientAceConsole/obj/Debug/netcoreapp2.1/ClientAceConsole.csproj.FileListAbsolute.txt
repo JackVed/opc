@@ -1,0 +1,11 @@
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\bin\Debug\netcoreapp2.1\ClientAceConsole.deps.json
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\bin\Debug\netcoreapp2.1\ClientAceConsole.runtimeconfig.json
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\bin\Debug\netcoreapp2.1\ClientAceConsole.runtimeconfig.dev.json
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\bin\Debug\netcoreapp2.1\ClientAceConsole.dll
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\obj\Debug\netcoreapp2.1\ClientAceConsole.csprojAssemblyReference.cache
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\obj\Debug\netcoreapp2.1\ClientAceConsole.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\obj\Debug\netcoreapp2.1\ClientAceConsole.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\obj\Debug\netcoreapp2.1\ClientAceConsole.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\bin\Debug\netcoreapp2.1\ClientAceConsole.pdb
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\obj\Debug\netcoreapp2.1\ClientAceConsole.dll
+C:\Users\Utente\source\repos\ClientAceConsole\ClientAceConsole\obj\Debug\netcoreapp2.1\ClientAceConsole.pdb
